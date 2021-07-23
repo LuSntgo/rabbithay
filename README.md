@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Thay
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript
+- 💞️ I'm looking to collaborate on (meaningful || interesting) projects
+- 📫 You can reach me by email: thay.csb@gmail.com
 
+<!-- - 🌱 I’m currently learning JavaScript
+ -->
 
 <!---
 rabbithay/rabbithay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
