@@ -8,21 +8,17 @@
 - 💬 I love meeting new people and having interesting conversations, you can email me!
 - 🌎 Fun fact: Before starting my developer career, I studied environmental engineering. So I'm very interested in Green Tech (the union of my two worlds! 💚) and creative solutions that contribute to sustainable development!
 
+### Talk with me, I'm funny (or at least I try):
 
-<!-- ### Talk with me, I'm funny (or at least I try):
+<a href="https://www.linkedin.com/in/thayan%C3%A1-coelho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:thay.csb@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!-- 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 ### Languages and Tools:
-
-
 
 <br />
 <br />
 ---
-
-
 
 [linkedin]: https://www.linkedin.com/in/thayan%C3%A1-coelho/
 
