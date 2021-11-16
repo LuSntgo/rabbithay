@@ -1,6 +1,8 @@
- <img align="right" alt="GIF" src="https://i.imgur.com/IkdLIvu.gif" height="250" width="400" />
+ 
 
 ## Hello World, I'm Thay  👋
+
+<img align="right" alt="GIF" src="https://i.imgur.com/IkdLIvu.gif" height="290" width="450"/>
 
 - 👩‍💻 Pronouns: She/Her
 - 🔎 I'm aways learning something new
