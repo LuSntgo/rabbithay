@@ -9,8 +9,8 @@
 - 📚 I'm currently deepening my knowledge in TypeScript and NextJs
 - 📬 I love meeting new people, you can email me!
 
-<a href="https://www.linkedin.com/in/thayan%C3%A1-coelho/"><img src="./assets/linkedin.png" width="80px"/></a>
-<a href="mailto:thay.csb@gmail.com"><img src="./assets/gmail.png" width="80px"/></a>
+<a href="https://www.linkedin.com/in/thayan%C3%A1-coelho/"><img src="./assets/linkedin.png" width="60px"/></a>
+<a href="mailto:thay.csb@gmail.com"><img src="./assets/gmail.png" width="60px"/></a>
 
 ## TechStack 💻
 
@@ -23,5 +23,5 @@
 <img align="left" alt="postgres" title="#postgres" width="60px" src="./assets/postgres.png" />
 <img align="left" alt="typescript" title="#typescript" width="60px" src="./assets/typescript.png" />
 <img align="left" alt="jest" title="#jest" width="60px" src="./assets/jest.png" />
-<img align="left" alt="docker" title="#docker" width="60px" src="./assets/docker.png" />
-
+<!-- <img align="left" alt="docker" title="#docker" width="60px" src="./assets/docker.png" />
+ -->
